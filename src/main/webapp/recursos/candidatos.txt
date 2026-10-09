@@ -1,0 +1,4 @@
+13;Ana Silva;Partido Estudantil Renovador (PER);0
+22;Carlos Souza;União da Juventude (UJ);2
+45;Mariana Lima;Frente Acadêmica (FA);0
+13013;vinicius13 (REDSTONE);Partido da Inovação (PI);17
